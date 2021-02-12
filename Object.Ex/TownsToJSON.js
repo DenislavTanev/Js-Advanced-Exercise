@@ -15,4 +15,5 @@ function townsToJSON(input) {
 }
 
 townsToJSON(['| Town | Latitude | Longitude |',
-'| Sofia | 42.696552 | 23.32601 |']);
+'| Sofia | 42.696552 | 23.32601 |',
+'|Varna| 23.321321 | 32.43232 |']);
