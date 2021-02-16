@@ -103,3 +103,5 @@ dinner.inviteGuests('Petar', 'Folded cabbage leaves filled with rice');
 dinner.inviteGuests('Georgi', 'Peppers filled with beans');
 
 console.log(dinner.showAttendance());
+
+
